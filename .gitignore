@@ -3,3 +3,4 @@ mlartifacts/
 __pycache__/
 .DS_Store
 TP_MLOps.pdf
+mlflow.db
