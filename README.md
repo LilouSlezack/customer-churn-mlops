@@ -4,8 +4,8 @@ TP MLOps (gestion de projet IA) : L'objectif est de prédire si un client va qui
 
 Dataset : Telco Customer Churn (sur kaggle)
 
-Lilou : partie random forest
-Jules : partie regression logistique
+- Lilou : partie random forest
+- Jules : partie regression logistique
 
 ## Les fichiers
 
