@@ -47,16 +47,16 @@ mlflow.set_experiment("Telco_Customer_Churn_Optuna")
 (attention il faut changer le chemin du csv dans prepare_data.py car c est le chemin de mon ordi)
 
 Le meilleur trial c est le trial_24 avec :
-n_estimators = 242 
-max_depth = 17
-min_samples_split = 11
-min_samples_leaf = 3
-max_features = sqrt
-class_weight = balanced
+- n_estimators = 242 
+- max_depth = 17
+- min_samples_split = 11
+- min_samples_leaf = 3
+- max_features = sqrt
+- class_weight = balanced
 
 Resultats sur le test : 
-accuracy = 0.76
-precision = 0.53
-recall = 0.77
-f1 = 0.63
-auc = 0.84
+- accuracy = 0.76
+- precision = 0.53
+- recall = 0.77
+- f1 = 0.63
+- auc = 0.84
